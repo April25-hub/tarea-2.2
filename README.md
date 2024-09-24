@@ -20,7 +20,8 @@ consumo_por_kilometro=litros_consumidos/kilometros_recorridos
 #esta linea muestra la cantidad del consumo del combustible por kilometro
 
 print("el consumo de conbustible por kilometro  es :",consumo_por_kilometro,"litros/kilometro")
-![image](https://github.com/user-attachments/assets/184e0200-7423-4bd9-a136-0baa771ffa7b)
+
 ![image](https://github.com/user-attachments/assets/61b33776-7633-4171-9b24-b71182268dc9)
+![image](https://github.com/user-attachments/assets/277e93af-6a33-48fd-959d-b3094fdc8b34)
 
 
